@@ -30,7 +30,7 @@ void Student :: Display()
 }
 Student :: Student()
 {
-    cout<<"Student Information"<<endl;
+    cout<<"****Student Information****"<<endl;
 }
 Student :: ~Student()
 {

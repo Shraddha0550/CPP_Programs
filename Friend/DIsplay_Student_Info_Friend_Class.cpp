@@ -51,12 +51,12 @@ int main()
 {
     int i = 0 , ID = 0;
     char Choice = '\0';
-    for(i = 0 ; i <= 3 ;i++)
+    for(i = 1 ; i <= 3 ;i++)
     {
          s[i].Accept_Details();
     }
     cout<<"\n ======** Student Details **======\n";
-    for(i = 0 ; i <= 3 ;i++)
+    for(i = 1 ; i <= 3 ;i++)
     {
          s[i].Dispaly_Details();
     }

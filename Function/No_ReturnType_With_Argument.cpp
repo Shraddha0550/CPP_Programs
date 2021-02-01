@@ -12,17 +12,13 @@ void sum(int a , int b)
 int main()
 {
    int x, y;
-   cout<<"enter first number: ";
+   cout<<"Enter First Number: ";
    cin>> x;
 
-   cout<<"enter second number: ";
+   cout<<"Enter second Number: ";
    cin>>y;
 
    sum(x,y);
 
-
-
     return 0 ;
 }
-
-

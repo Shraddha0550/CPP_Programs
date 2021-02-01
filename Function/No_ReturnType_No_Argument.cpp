@@ -3,10 +3,10 @@ using namespace std;
 void sum()
 {
     int x=0, y=0, res = 0;;
-   cout<<"enter first number: ";
+   cout<<"Enter First Number: ";
    cin>> x;
 
-   cout<<"enter second number: ";
+   cout<<"Enter second Number: ";
    cin>>y;
 
     res = x+y;

@@ -6,10 +6,10 @@ int sum(int,int);
 
 int main(){
    int x, y;
-   cout<<"enter first number: ";
+   cout<<"Enter First Number: ";
    cin>> x;
 
-   cout<<"enter second number: ";
+   cout<<"Enter Second Number: ";
    cin>>y;
 
    int ret = sum(x,y);

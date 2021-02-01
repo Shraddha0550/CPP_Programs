@@ -11,10 +11,10 @@ void sum(int a,int b)
 int main()
 {
      int x=0, y=0;
-   cout<<"enter first number: ";
+   cout<<"Enter First Number: ";
    cin>> x;
 
-   cout<<"enter second number: ";
+   cout<<"Enter second Number: ";
    cin>>y;
 
    sum(x,y);

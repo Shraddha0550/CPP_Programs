@@ -3,8 +3,7 @@ using namespace std;
 
 int sum(int x, int y=20,int z=10)
 {
-   int p = x+y+z;
-   return p;
+   return x+y+z;
 }
 int main()
 {
